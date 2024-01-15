@@ -155,7 +155,8 @@ streamlit run streamlitApp.py
 
 <br>
 
-Team
+**Team Members**
+<br>
 Akshata G Kharad
 <br>
 <img src="https://github.com/gkakshata.png" width="60px;"/>
