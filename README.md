@@ -157,15 +157,15 @@ streamlit run streamlitApp.py
 
 **Team Members**
 <br>
-Akshata G Kharad
+<u>Akshata G Kharad</u>
 <br>
 <img src="https://github.com/gkakshata.png" width="60px;"/>
 <br>
-Abhishek U
+<u>Abhishek U</u>
 <br>
 <img src="https://github.com/Abhishek-1122.png" width="60px;"/>
 <br>
-Bhumika S
+<u>Bhumika S</u>
 <br>
 <img src="https://github.com/bhumika1210.png" width="60px;"/>
 <br>
