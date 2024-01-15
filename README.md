@@ -154,3 +154,6 @@ streamlit run streamlitApp.py
 ```
 
 <br>
+
+Team
+[<img src="https://github.com/gkakshata.png" width="60px;"/><br /><sub><ahref="https://github.com/gkakshata">gkakshata</a></sub>](https://github.com/gkakshata/{{ repository }}
