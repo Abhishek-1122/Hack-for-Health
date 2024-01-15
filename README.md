@@ -5,6 +5,13 @@
 This project aims to build a Parkinson's Disease Detection tool using Support Vector Machines (SVM). The tool utilizes a dataset from Kaggle ([Parkinsons Data Set](https://www.kaggle.com/nidaguler/parkinsons-data-set)) for training and testing the SVM model.
 
 ## Methodology
+This is the flowchart depicting the first approach ie; The voice Analysis
+![image](https://github.com/Abhishek-1122/Hack-for-Health/assets/139526583/2d9c9e31-de5c-4cde-9e09-4668fea310e6)
+This is the flowchart depicting the second approach ie; The spiral drawing Analysis
+![image](https://github.com/Abhishek-1122/Hack-for-Health/assets/139526583/ec2544c0-0019-4965-894e-0a4e105d2943)
+
+
+
 
 ### Support Vector Machines (SVMs)
 
