@@ -7,14 +7,17 @@ const Home = () => {
   return (
     <div className="home-container" id="home">
       <Navbar />
+
       <div className="home-banner-container">
         <div className="home-bannerImage-container">
           <img src={BannerBackground} alt="" />
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
-            Identification of Parkinson's disorder at early stage using Machine
-            Learning
+            <div>
+              Identification of Parkinson's disorder at early stage using
+              Machine Learning
+            </div>
           </h1>
           <p className="primary-text">
             Predicting Parkinson's early using ML on voice and handwriting,

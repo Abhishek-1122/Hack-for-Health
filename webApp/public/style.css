@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: "Reem Kufi", sans-serif !important;
   }
+  .faq-section p{
+    display: block;
+
+  }
   .logo{
     max-width: 25%;
   }
