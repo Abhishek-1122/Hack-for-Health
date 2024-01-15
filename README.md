@@ -89,35 +89,35 @@ python main.py
 
 # Parkonix
 
-## Unveiling the Tremors: A Dependable Algorithm with an 83% Accuracy for Parkinson's Disease Detection through Spiral/Wave Sketch Images.
+## 💻Unveiling the Tremors: A Dependable Algorithm with an 83% Accuracy for Parkinson's Disease Detection through Spiral/Wave Sketch Images.
 
 Parkonix is a sophisticated algorithm meticulously developed for the precise identification of Parkinson's disease. Rooted in the scholarly work of Rigas et al., as documented in the research article "Automated Parkinson's Disease Detection Based on Handwriting Movement," this repository encapsulates the implementation of Parkonix using Teachable Machine.
 
-## ⭐ Overview
+## 💻 Overview
 Parkinson's disease, a neurodegenerative disorder impacting motor functions, is characterized by tremors, stiffness, and impaired movement. The research expounded in the aforementioned article delves into the utilization of spiral and wave sketch images to craft a robust algorithm for Parkinson's disease detection. Parkonix harnesses these sketch images to train a machine learning model, boasting an impressive accuracy rate of 83%.
 
-## ⭐ Features
+## 💻 Features
 * Detection of Parkinson's disease based on spiral and wave sketch images.
 * Utilization of Teachable Machine, a user-friendly platform for training machine learning models.
 * Attainment of an 83% accuracy rate, ensuring steadfast results.
 * Swift and efficient detection process.
 * User-friendly integration into existing applications.
 
-## ⭐ How to Use
+## 💻 How to Use
 1. Verify that the required dependencies are installed.
 2. Procure a dataset comprising spiral and wave sketch images.
 3. Train the Parkonix algorithm using Teachable Machine, utilizing the dataset as input.
 4. Preserve the trained model and export it in a compatible format.
 5. Integrate the Parkonix algorithm into your application and employ it for Parkinson's disease detection.
 
-## ⭐ Model Developed on Teachable Machine
+## 💻 Model Developed on Teachable Machine
 
 [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 
 Teachable Machine, an innovative platform by Google, empowers users to construct custom machine learning models sans the necessity for coding or extensive technical expertise. The platform boasts a user-friendly drag-and-drop interface, facilitating swift and easy model training across various data types, including images, sounds, and sensor data.
 
-## ⭐ Running the Scripts
+## 💻 Running the Scripts
 
 To execute these scripts, ensure the following are installed:
 
